@@ -1,5 +1,5 @@
 {
-  "title": "Haikyuu!",
+  "title": "Manga Clan",
   "description": "",
   "artist": "",
   "author": "",
@@ -19,6 +19,14 @@
       "last_updated": "1641778339",
       "groups": {
         "": "/proxy/api/mangadex/chapter/519b36db-e3fe-4caa-ab44-141176d35fa9"
+      }
+    },
+    "3": {
+      "title": "Made in Abyss",
+      "volume": "",
+      "last_updated": "1641778727",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/8b22452b-09d9-4239-8f07-e9814ff05b13"
       }
     }
   }
